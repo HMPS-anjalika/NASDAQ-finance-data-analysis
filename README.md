@@ -3,9 +3,11 @@
 Project Title: Financial Data Analysis - Meta Stock, USD/INR, and Bitcoin Trends
 
 Overview
+
 This repository include a analysis of NASDAQ (a stock market exchange based in New York City) financial data including Meta stock prices, USD/INR exchange rates, and Bitcoin prices, to understand their trends, correlations, and implications for investment strategies. The goal is to understand market dynamics, identify trends, and provide actionable insights for investors.
 
 Dataset
+
 Source: [Publicly available datasets from Kaggle.](https://www.kaggle.com/datasets/adhoppin/financial-data/data)
 
 Usage
